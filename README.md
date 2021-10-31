@@ -16,7 +16,7 @@ Criando um **Portifólio** - HTML5, CSS3 e JavaScript.
 ## Cursos.
 <img src='./portifolio-html-css/img/cursos.png ' width='100%'/>
 
-## Portifóçio.
+## Portifólio.
 <img src='./portifolio-html-css/img/portifolio.png ' width='100%'/>
 
 ## Contato.
