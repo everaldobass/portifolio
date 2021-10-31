@@ -43,6 +43,9 @@ html::-webkit-scrollbar-thumb{
     background: var(--yellow);
 }
 
+
+
+
 /* Body*/
 body{
     background: #111;
@@ -54,6 +57,7 @@ section{
     min-height: 100vh;
     padding: 1rem;
 }
+
 
 /* Botões Download e CV*/
 .btn{
@@ -91,6 +95,7 @@ section{
 .heading span{
     color: var(--yellow);
 }
+
 
 /* Classe Header*/
 header{
@@ -155,6 +160,8 @@ header .navbar ul li a:hover{
     background: var(--yellow); 
 }
 
+
+
 /* Menu*/
 #menu{
     position: fixed;
@@ -199,6 +206,8 @@ header .navbar ul li a:hover{
     color: #eee;
     padding: 1rem 0;
 }
+
+
 
 
 /* Estilo do Sobre*/
@@ -261,6 +270,10 @@ header .navbar ul li a:hover{
     font-size: 2rem;
     color: #fff;
 }
+
+
+
+
 
 
 /* Formação Academica*/
