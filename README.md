@@ -20,4 +20,4 @@ Criando um **Portifólio** - HTML5, CSS3 e JavaScript.
 <img src='./portifolio-html-css/img/portifolio.png ' width='100%'/>
 
 ## Contato.
-<img src='./portifolio-html-css/img/portifolio.png ' width='100%'/>
+<img src='./portifolio-html-css/img/contato.png ' width='100%'/>
